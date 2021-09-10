@@ -8,6 +8,8 @@ const ua = `jdltapp;iPhone;3.1.0;${Math.ceil(Math.random()*4+10)}.${Math.ceil(Ma
 let cookiesArr = []
 let exchangeAccounts = {
      "zhanxiachi": 2,//两元
+     "wdNMhNkhpbxadIq": 2,//两元
+     "jd_6f51a0079f9d8": 2,//两元
  }
 
 !(async () => {
